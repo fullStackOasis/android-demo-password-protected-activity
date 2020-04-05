@@ -15,7 +15,7 @@ import androidx.appcompat.app.AppCompatActivity;
  * on the password entered.
  */
 public class SecretActivity extends AppCompatActivity {
-    private static String secretPassword = "ABC12345";
+    private static String secretPassword = "ABC12345"; // hardcoded password, yutz!
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
