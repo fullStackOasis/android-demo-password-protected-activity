@@ -1,4 +1,24 @@
 <resources>
     <string name="app_name">passwordprotected</string>
-    <string name="secret_message">This is the recipe for Kentucky Fried Chicken&#174;!</string>
+    <string name="secret_message">This is the recipe for Kentucky Fried Chicken&#174;! This is
+        the recipe for Kentucky Fried Chicken&#174;!\n
+    This is the recipe for Kentucky Fried Chicken&#174;!This is the recipe for Kentucky Fried
+        Chicken&#174;!\nThis is the recipe for Kentucky Fried Chicken&#174;!This is the recipe for Kentucky Fried
+        Chicken&#174;!\nThis is the recipe for Kentucky Fried Chicken&#174;!This is the recipe for Kentucky Fried
+        Chicken&#174;!\nThis is the recipe for Kentucky Fried Chicken&#174;!This is the recipe for Kentucky Fried
+        Chicken&#174;!\nThis is the recipe for Kentucky Fried Chicken&#174;!This is the recipe for Kentucky Fried
+        Chicken&#174;!\nThis is the recipe for Kentucky Fried Chicken&#174;!This is the recipe for Kentucky Fried
+        Chicken&#174;!\nThis is the recipe for Kentucky Fried Chicken&#174;!This is the recipe for Kentucky Fried
+        Chicken&#174;!\nThis is the recipe for Kentucky Fried Chicken&#174;!This is the recipe for Kentucky Fried
+        Chicken&#174;!\nThis is the recipe for Kentucky Fried Chicken&#174;!This is the recipe for Kentucky Fried
+        Chicken&#174;!\nThis is the recipe for Kentucky Fried Chicken&#174;!This is the recipe for Kentucky Fried
+        Chicken&#174;!\nThis is the recipe for Kentucky Fried Chicken&#174;!This is the recipe for Kentucky Fried
+        Chicken&#174;!\nThis is the recipe for Kentucky Fried Chicken&#174;!This is the recipe for Kentucky Fried
+        Chicken&#174;!\nThis is the recipe for Kentucky Fried Chicken&#174;!This is the recipe for Kentucky Fried
+        Chicken&#174;!\nThis is the recipe for Kentucky Fried Chicken&#174;!This is the recipe for Kentucky Fried
+        Chicken&#174;!\n</string>
+    <string name="enter_password">Password required!</string>
+    <string name="cancel">cancel</string>
+    <string name="ok">ok</string>
+    <string name="click_me">click me</string>
 </resources>
