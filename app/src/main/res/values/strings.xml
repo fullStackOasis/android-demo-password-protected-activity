@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">passwordprotected</string>
+    <string name="secret_message">This is the recipe for Kentucky Fried Chicken&#174;!</string>
 </resources>
